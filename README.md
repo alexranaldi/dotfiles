@@ -1,2 +1,2 @@
 # dotfiles
-Configuration Files
+Configuration Files from my Arch Linux installation
